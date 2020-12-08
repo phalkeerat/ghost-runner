@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  margin-left: 25%;
+  margin-left: 25%;
+  margin-top: 35px;
+  border: 0.2cm solid rgb(207, 189, 20) ;
+}
